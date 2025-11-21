@@ -1,6 +1,9 @@
 <div align="center">
+  
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=250&section=header&text=Javohir%20Tashpulatov&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20UI%20Enthusiast&descSize=20&descAlignY=55&descAlign=50)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 <p>
   <a href="https://github.com/Javohirweb01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub"/>
@@ -50,6 +53,17 @@ const javohir = {
 ![English](https://img.shields.io/badge/English-Professional-58a6ff?style=for-the-badge)
 ![Russian](https://img.shields.io/badge/Russian-Fluent-6e40c9?style=for-the-badge)
 ![Uzbek](https://img.shields.io/badge/Uzbek-Native-1f6feb?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Javohirweb01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javohirweb01&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=6e40c9&fire=6e40c9&currStreakLabel=58a6ff" height="170"/>
 
 </div>
 

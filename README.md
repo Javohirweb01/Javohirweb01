@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/9446ada1-cf1c-48dc-98b6-c2b13eb9cfcf.png" width="100%" alt="banner" />
+  <img src="/mnt/data/a1470f4b-8921-429e-86cc-eb75097af66c.png" width="100%" alt="Javohir Tashpulatov Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Javohir Tashpulatov 👋</h1>
-<h3 align="center">A Passionate Frontend Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 
 🌱 Currently learning and improving my **Frontend Development** skills  
 💡 I enjoy building creative UI/UX projects using modern web technologies  
-🔥 Always ready to explore new tools, frameworks and solve real problems  
+🔥 Always ready to explore new tools, frameworks, and solve real problems  
 🤝 Open to collaboration, especially on exciting frontend projects  
 
 ---
@@ -51,11 +51,11 @@
 
 ## 🌐 Contact Me
 
-📩 Email: **(yozmoqchi bo‘lsangiz ayting, qo‘shib beraman)**  
-🌍 Portfolio: *(hohlasangiz link qo‘shib beraman)*  
+📩 Email: **(qo‘shmoqchi bo‘lsangiz ayting)**  
+🌍 Portfolio: *(link qo‘shmoqchi bo‘lsangiz ayting)*  
 
 ---
 
 ## ✨ Fun Fact
 
-*“Frontend — bu san’at. Developer esa rassom.”* 🎨
+*"Frontend — this is art, and the developer is the artist."* 🎨

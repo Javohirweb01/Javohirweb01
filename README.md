@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/a1470f4b-8921-429e-86cc-eb75097af66c.png" width="100%" alt="Javohir Tashpulatov Banner" />
+  <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/ca10a0fe-df62-4f89-9072-45d3ffe106cb" />
 </p>
 
 <h1 align="center">Hi, I'm Javohir Tashpulatov 👋</h1>

@@ -61,17 +61,6 @@ const javohir = {
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-trophies.vercel.app/?username=Javohirweb01&theme=discord&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">

@@ -1,12 +1,6 @@
 <div align="center">
-  
-<!-- Animated Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=250&section=header&text=Javohir%20Tashpulatov&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20UI%20Enthusiast&descSize=20&descAlignY=55&descAlign=50)
-
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<!-- Social Badges with Glow Effect -->
 <p>
   <a href="https://github.com/Javohirweb01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub"/>
@@ -85,5 +79,4 @@ const javohir = {
 
 </div>
 
-<!-- Footer Wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer)

@@ -76,7 +76,7 @@ const javohir = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Javohirweb01&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&bg_color=0d1117" alt="GitHub Trophies"/>
+[![trophy](https://github-trophies.vercel.app/?username=Javohirweb01&theme=discord&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

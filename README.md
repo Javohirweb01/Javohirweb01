@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/a1470f4b-8921-429e-86cc-eb75097af66c.png" width="100%" alt="Javohir Tashpulatov Banner" />
+  <img src="https://github.com/Javohirweb01/Javohirweb01/raw/main/banner.png" width="100%" alt="Javohir Tashpulatov Banner" />
 </p>
+
 
 <h1 align="center">Hi, I'm Javohir Tashpulatov 👋</h1>
 <h3 align="center">Frontend Developer</h3>

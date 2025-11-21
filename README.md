@@ -1,61 +1,103 @@
-<!-- Banner -->
-<p align="center">
-  <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/ca10a0fe-df62-4f89-9072-45d3ffe106cb" />
+<div align="center">
+  
+<!-- Animated Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=250&section=header&text=Javohir%20Tashpulatov&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20UI%20Enthusiast&descSize=20&descAlignY=55&descAlign=50)
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Experiences+%E2%9C%A8;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- Social Badges with Glow Effect -->
+<p>
+  <a href="https://github.com/Javohirweb01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="GitHub"/>
+  </a>
 </p>
 
-<h1 align="center">Hi, I'm Javohir Tashpulatov 👋</h1>
-<h3 align="center">Frontend Developer</h3>
+</div>
 
 ---
 
-## 🚀 About Me  
+<!-- About Me Section with Neon Border -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javohirweb01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="320"/>
 
-🌱 Currently learning and improving my **Frontend Development** skills  
-💡 I enjoy building creative UI/UX projects using modern web technologies  
-🔥 Always ready to explore new tools, frameworks, and solve real problems  
-🤝 Open to collaboration, especially on exciting frontend projects  
+## 💫 About Me
+
+```javascript
+const javohir = {
+    location: "Uzbekistan 🇺🇿",
+    role: "Frontend Developer",
+    code: ["HTML", "CSS", "JavaScript", "React"],
+    tools: ["VS Code", "GitHub", "Bootstrap", "Tailwind CSS"],
+    challenge: "Building awesome UIs every day! 🔥"
+};
+```
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javohirweb01&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javohirweb01&layout=compact&theme=radical" height="170"/>
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Javohirweb01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=6e40c9&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javohirweb01&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=6e40c9&fire=6e40c9&currStreakLabel=58a6ff" height="170"/>
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javohirweb01&theme=radical"/>
-</p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Javohirweb01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 🌐 Contact Me
-
-📩 Email: **(qo‘shmoqchi bo‘lsangiz ayting)**  
-🌍 Portfolio: *(link qo‘shmoqchi bo‘lsangiz ayting)*  
+</div>
 
 ---
 
-## ✨ Fun Fact
+<!-- Activity Graph -->
+## 📈 Contribution Graph
 
-*"Frontend — this is art, and the developer is the artist."* 🎨
+<div align="center">
+  
+[![Javohir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Javohirweb01&bg_color=0d1117&color=58a6ff&line=6e40c9&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Javohirweb01&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer)

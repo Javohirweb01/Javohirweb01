@@ -17,9 +17,6 @@
 
 ---
 
-<!-- About Me Section with Neon Border -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javohirweb01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="320"/>
-
 ## 💫 About Me
 
 ```javascript
@@ -28,6 +25,7 @@ const javohir = {
     role: "Frontend Developer",
     code: ["HTML", "CSS", "JavaScript", "React"],
     tools: ["VS Code", "GitHub", "Bootstrap", "Tailwind CSS"],
+    languages: ["English", "Russian", "Uzbek"],
     challenge: "Building awesome UIs every day! 🔥"
 };
 ```
@@ -51,6 +49,18 @@ const javohir = {
 
 ---
 
+## 🌍 Languages
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Professional-58a6ff?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-Fluent-6e40c9?style=for-the-badge)
+![Uzbek](https://img.shields.io/badge/Uzbek-Native-1f6feb?style=for-the-badge)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -66,13 +76,12 @@ const javohir = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Javohirweb01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Javohirweb01&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&bg_color=0d1117" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -83,7 +92,6 @@ const javohir = {
 
 ---
 
-<!-- Snake Animation -->
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
@@ -92,7 +100,6 @@ const javohir = {
 
 ---
 
-<!-- Profile Views Counter -->
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Javohirweb01&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)
